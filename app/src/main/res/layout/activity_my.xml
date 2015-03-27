@@ -14,8 +14,7 @@
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
         android:text="@string/button_compass"
-        android:onClick="enterCompass"
-        android:layout_gravity="center_vertical" />
+        android:onClick="enterCompass" />
 
     <Button
         android:layout_width="wrap_content"
